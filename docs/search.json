@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-09-16T11:10:49+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Dorothée Bentz, PhD",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\nTHIS IS A NEW VERSION…\n\n\n\n",
+      "last_modified": "2022-09-16T11:10:49+02:00"
+    }
+  ],
+  "collections": []
+}
